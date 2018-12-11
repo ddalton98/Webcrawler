@@ -1,2 +1,12 @@
 22:59:33 GMT: java.net.ConnectException: Connection refused: connect
 15:51:52 GMT: java.net.ConnectException: Connection timed out: connect
+15:54:36 GMT: java.net.ConnectException: Connection timed out: connect
+15:57:48 GMT: java.io.IOException: Server returned HTTP response code: 403 for URL: http://someplace.com/neatstuff.gif
+15:57:50 GMT: java.io.FileNotFoundException: http://www.acme.com/profiles/core
+15:57:50 GMT: java.net.UnknownHostException: www.somecompany.com
+15:58:10 GMT: java.io.FileNotFoundException: http://example.com/myicon.png
+15:58:21 GMT: java.io.IOException: Server returned HTTP response code: 403 for URL: http://validator.w3.org/check?uri=referer
+15:58:31 GMT: java.io.FileNotFoundException: http://www.civiweb.com/default.asp?action=vi&amp;rub=stat&amp;art=pg
+15:58:31 GMT: java.io.FileNotFoundException: http://vr-intelligence.com/europe/
+15:58:34 GMT: java.io.FileNotFoundException: http://isoc.nl/events/html5webapps-workshop-met-dominique-hazael-massieux/
+15:58:35 GMT: java.io.FileNotFoundException: http://www.w3c.nl/Event/2015/masterclass-dominique-hazael-massieux-webrtc
