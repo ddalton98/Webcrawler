@@ -1,3 +1,2 @@
 # Webcrawler
-Java webcrawler
-Crawls webpages
+Java webcrawler that crawls webpages
